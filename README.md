@@ -35,8 +35,10 @@ use a sample or not in the estimation of allele frequencies.
 
 R packages used:
 
+- [RSQLite](https://cran.r-project.org/package=RSQLite)
+
 R scripts:
 
-- `1_extract_data.R
+- `1_extract_data.R`
 
 - `2_calc_allele_freq.R`
