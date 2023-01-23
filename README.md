@@ -20,17 +20,23 @@ In this repository, I include some code to try to pull out the PAR
 genotypes, and then to calculate allele frequencies within selected
 inbred strains and outbred mice.
 
-The file `samples_annotated.csv` is based on `samples.csv` with an
+This is based on the SQLite file <ftp://ftp.jax.org/petrs/MDA/processed_data/MDA.db>
+which includes 5 tables:
+
+- snpInfo: probesets annotation
+- sampleList: information about samples
+- intensityAverage, intensityContrast: CCS transformed intensities
+- genotype: genotypes (A/B/H/N calls)
+- vinotype: vinotypes (A/B/H/V/N calls)
+
+The file `samples_annotated.csv` is based on `sampleList` with an
 added column (`Use_for_analysis`)  with hand-entered annotations indicating whether to
 use a sample or not in the estimation of allele frequencies.
 
 R packages used:
 
-
 R scripts:
 
-- `1_download_data.R`
+- `1_extract_data.R
 
-- `2_grab_par_genotypes.R`
-
-- `3_calc_allele_freq.R`
+- `2_calc_allele_freq.R`
