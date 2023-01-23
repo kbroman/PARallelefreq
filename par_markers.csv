@@ -1,0 +1,27 @@
+"snpId","chrId","positionBp","positionCM","quality","isInPAR","alleleA","alleleB","rsNumber","ensemblTranscriptID","ensemblGeneID","substitutionType","locusSymbol","functionClass","mm10positionBp","flagged"
+"JAX00723347","X",166410987,79.3269,"good",1,"T","C","rs31819170","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723349","X",166413059,79.3279,"good",1,"G","A","rs31821837","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723350","X",166413398,79.3281,"good",1,"A","T","rs31822789","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723351","X",166413475,79.3281,"good",1,"C","T","rs31823664","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00187253","X",166413529,79.3281,"good",1,"T","G","rs31823666","ENSMUST00000149258 ENSMUST00000144738 ENSMUST00000112107 ENSMUST00000154810 ENSMUST00000112104 ENSMUST00000036753 ENSMUST00000143815 ENSMUST00000133857 ENSMUST00000146073 ENSMUST00000078947 ENSMUST00000151722 ENSMUST00000163810 ENSMUST00000079443 ENSMUST00000129642 ENSMUST00000152163 ENSMUST00000171433 ENSMUST00000112105","ENSMUSG00000035299 ENSMUSG00000087263 ENSMUSG00000072844","Transversion","Mid1 Gm15726 G530011O06Rik","downstream_gene_variant intron_variant non_coding_exon_variant nc_transcript_variant upstream_gene_variant",169975597,0
+"JAX00723353","X",166415078,79.3289,"good",1,"A","C","rs31824930","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723354","X",166416379,79.3295,"good",1,"C","A","rs31818031","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723355","X",166416421,79.3295,"good",1,"A","C","rs31819084","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723356","X",166416567,79.3296,"good",1,"G","A","rs31819089","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723358","X",166416676,79.3296,"good",1,"A","G","rs31819093","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723359","X",166416706,79.3297,"good",1,"A","C","rs31819915","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723360","X",166416734,79.3297,"good",1,"A","G","rs31819917","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723361","X",166416914,79.3298,"good",1,"G","A","rs31820795","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723364","X",166417146,79.3299,"good",1,"T","C","rs31821639","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723365","X",166419235,79.3309,"good",1,"T","C","rs31821594","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723366","X",166419282,79.3309,"good",1,"G","C","rs31821596","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00723367","X",166419340,79.3309,"good",1,"G","A","rs31821599","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723368","X",166421612,79.332,"good",1,"C","T","rs31827594","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723369","X",166421746,79.3321,"good",1,"C","T","rs31827597","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723370","X",166421814,79.3321,"good",1,"G","T","rs31827600","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00187255","X",166421845,79.3321,"good",1,"G","C","rs31827603","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00187256","X",166421883,79.3321,"good",1,"T","G","rs31828425","N/A","N/A","Transversion","N/A","N/A",NA,1
+"JAX00725011","X",166421927,79.3321,"good",1,"C","T",NA,"N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00725012","X",166421948,79.3322,"good",1,"G","A",NA,"N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723371","X",166422738,79.3325,"good",1,"C","T","rs31831514","N/A","N/A","Transition","N/A","N/A",NA,1
+"JAX00723372","X",166422896,79.3326,"good",1,"C","G","rs31824124","N/A","N/A","Transversion","N/A","N/A",NA,1
