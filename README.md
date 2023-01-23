@@ -20,8 +20,8 @@ In this repository, I include some code to try to pull out the PAR
 genotypes, and then to calculate allele frequencies within selected
 inbred strains and outbred mice.
 
-This is based on the SQLite file <ftp://ftp.jax.org/petrs/MDA/processed_data/MDA.db>
-which includes 5 tables:
+This is based on the SQLite file <ftp://ftp.jax.org/petrs/MDA/processed_data/MDA.db>,
+which is *very* large (26 GB) and includes 5 tables:
 
 - snpInfo: probesets annotation
 - sampleList: information about samples
