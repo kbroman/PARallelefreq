@@ -24,6 +24,10 @@ stopifnot( all(samples$CEL_File == colnames(g)[-1]) )
 # outbred samples are all CD-1 or NMRI, but the NMRI mice are *all* males
 table(samples$Sample_Name[samples$Outbred==1])
 
+## wild-derived and classical inbreds: basically all males
+
+## so all we have is the CD-1 population
+
 # CD-1 males and females
 cd1_fem <- samples$CEL_File[samples$Sample_Name=="CD-1" & samples$Sex=="F"]
 cd1_mal <- samples$CEL_File[samples$Sample_Name=="CD-1" & samples$Sex=="M"]
